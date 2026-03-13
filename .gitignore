@@ -1,0 +1,19 @@
+# Audio (muy pesados, opcional excluirlos)
+# /audio/bgm/
+# /audio/bgs/
+
+# Archivos temporales
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Carpeta de deployment/builds
+/deployment/
+
+# Node modules si usas plugins con npm
+node_modules/
+
+# Saves locales (no forman parte del proyecto)
+/save/
